@@ -20,6 +20,15 @@ a) Identify the factors causing chronic kidney disease.
 
 b) Build a model that can help to determine if a patient is suffering from kidney chronic disease or not.
 
+## Installing Required Libraries
+```python
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+pip install tqdm
+```
 
 ## Authors
 
